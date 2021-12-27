@@ -4,5 +4,4 @@ class AppState {
   final Widget widget;
 
   AppState({required this.widget});
-
 }
